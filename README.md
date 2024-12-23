@@ -6,7 +6,7 @@
 ---
 
 ## Deskripsi Tugas
-Buatlah akun di [Replit.com](https://replit.com), kemudian praktikkan kembali materi praktikum di pertemuan ke-1 pada tautan berikut: [https://replit.com/@hynra/PBO-7](https://replit.com/@hynra/PBO-7). Beri komentar pada setiap baris semampu pemahaman Anda. Submit tugas dalam bentuk link ke repl di akun Replit Anda.  
+Buatlah akun di [Replit.com](https://replit.com), kemudian praktikkan kembali materi praktikum di pertemuan ke-7 pada tautan berikut: [https://replit.com/@hynra/PBO-7](https://replit.com/@hynra/PBO-7). Beri komentar pada setiap baris semampu pemahaman Anda. Submit tugas dalam bentuk link ke repl di akun Replit Anda.  
 
 ---
 
